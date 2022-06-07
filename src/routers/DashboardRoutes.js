@@ -5,7 +5,6 @@ import { Navbar } from "../components/ui/NavBar"
 import { Routes, Route } from "react-router-dom";
 
 export const DashboardRoutes = () => {
-    //  const handleLogout = () => {
     return (
         <>
             <Navbar />
@@ -18,4 +17,3 @@ export const DashboardRoutes = () => {
         </>
     )
 }
- 
